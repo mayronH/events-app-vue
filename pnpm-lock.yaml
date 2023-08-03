@@ -8126,7 +8126,7 @@ packages:
       faye-websocket: 0.11.3
       inherits: 2.0.4
       json3: 3.3.3
-      url-parse: 1.4.7
+      url-parse: 1.5.10
     transitivePeerDependencies:
       - supports-color
     dev: true
@@ -8870,8 +8870,8 @@ packages:
       webpack: 4.46.0
     dev: true
 
-  /url-parse@1.4.7:
-    resolution: {integrity: sha512-d3uaVyzDB9tQoSXFvuSUNFibTd9zxd2bkVrDRvF5TmvWWQwqE4lgYJ5m+x1DbecWkw+LK4RNl2CU1hHuOKPVlg==}
+  /url-parse@1.5.10:
+    resolution: {integrity: sha512-WypcfiRhfeUP9vvF0j6rw0J3hrWrw6iZv3+22h6iRMJ/8z1Tj6XfLP4DsUix5MhMPnXpiHDoKyoZ/bdCkwBCiQ==}
     dependencies:
       querystringify: 2.2.0
       requires-port: 1.0.0
