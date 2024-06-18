@@ -9252,7 +9252,7 @@ packages:
       lodash: 4.17.21
       mkdirp: 0.5.5
       opener: 1.5.2
-      ws: 6.2.1
+      ws: 6.2.3
     transitivePeerDependencies:
       - bufferutil
       - supports-color
@@ -9324,7 +9324,7 @@ packages:
       webpack: 4.46.0
       webpack-dev-middleware: 3.7.3(webpack@4.46.0)
       webpack-log: 2.0.0
-      ws: 6.2.1
+      ws: 6.2.3
       yargs: 13.3.2
     transitivePeerDependencies:
       - bufferutil
@@ -9474,8 +9474,8 @@ packages:
       mkdirp: 0.5.5
     dev: true
 
-  /ws@6.2.1:
-    resolution: {integrity: sha512-GIyAXC2cB7LjvpgMt9EKS2ldqr0MTrORaleiOno6TweZ6r3TKtoFQWay/2PceJ3RuBasOHzXNn5Lrw1X0bEjqA==}
+  /ws@6.2.3:
+    resolution: {integrity: sha512-jmTjYU0j60B+vHey6TfR3Z7RD61z/hmxBS3VMSGIrroOWXQEneK1zNuotOUrGyBHQj0yrpsLHPWtigEFd13ndA==}
     peerDependencies:
       bufferutil: ^4.0.1
       utf-8-validate: ^5.0.2
